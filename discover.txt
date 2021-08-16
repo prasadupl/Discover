@@ -1,3 +1,3 @@
 ##Welcome to Discover Project!!
 Discover is a Banking account project of United States.
-DevOps team will be responsible for CICD pipeline and will support and work with production team. 
+DevOps team will be responsible for CICD pipeline task and will support and work with production team. 
